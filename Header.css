@@ -1,0 +1,43 @@
+header{
+     widows: 50%;
+	height: 70px;
+	padding: border-box;
+	box-sizing: border-box;
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+	
+	background-color: #FAD961;
+background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%);
+
+	font-family: 'Bowlby One SC', cursive;
+	
+	
+}
+
+.logo{
+	color: orange;
+	font-family: 'Bowlby One SC', cursive;
+	
+}
+.nav{
+	list-style: none;
+	color:yellow;
+	margin: 0px 0px 50px 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+	
+}
+.banner{
+	padding:0px 0px 20px 20px;
+	padding-right: 100px;
+}
+.banner_1{
+	
+	padding:0px 0px 10px 10px;
+	padding-bottom: 200px;
+
+}
+

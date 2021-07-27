@@ -12,7 +12,7 @@
 |  Grado/Carrera  |4TO Bachiler en ciencias y letras en computacion    |
 |  Materia  | Laboratorio  |
 
-# Indice :tw-1f4da:
+# Indice :tw-1f4d1:
 ##### 1. portada 
 ##### 2. Anteportada 
 ##### 1. Glasario 

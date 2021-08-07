@@ -21,3 +21,10 @@
     - Glosario
         - Contendio HTML
         - Contenido CSS
+ 
+ 
+ ##  Objetivos a Futuro :tw-1f680:
+- Ganar la carrera 
+- entregar mejro mi portafolio 
+- Entragar Todo  a Tiempo 
+- Ser puntal en  las clases 
